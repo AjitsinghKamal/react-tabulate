@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  padding: 2rem;
+}
+
+.table_ak {
+  margin: 0 auto;
+}
+
+.App-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 2rem;
+}
